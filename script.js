@@ -64,6 +64,9 @@
 					if (lang == "en"){
 						var urlLang = "https://www.irobot.com/-/media";
 					}
+					else if (lang == "about"){
+						var urlLang = "https://about.irobot.com/-/media";
+					}
 					else if (lang == "ca-en"){
 						var urlLang = "https://www.irobot.ca/en-ca/-/media";
 					}
